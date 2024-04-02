@@ -2,6 +2,10 @@
 
 > Shortly Website on Tailwind CSS
 
+### Demo - [Shortly](https://imported-motion.surge.sh/)
+
+![screenshot](screen.png)
+
 ## Usage
 
 Clone the repo:
